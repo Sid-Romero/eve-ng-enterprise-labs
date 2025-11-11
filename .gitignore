@@ -1,0 +1,29 @@
+# EVE-NG specific
+*.log
+*.pcap
+*-startup-config
+*-running-config
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Personal notes (if you want to keep them private)
+# personal-notes/
